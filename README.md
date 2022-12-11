@@ -11,7 +11,8 @@ THEY ARE:
  
   a. NUMPY TASKS IN COLAB
   
-  b. Mongo db with i) Student dataset  as json
+  b. Mongo db with
+                   i) Student dataset  as json
                    ii) Telephone Directory CRUD Operation
 
     
