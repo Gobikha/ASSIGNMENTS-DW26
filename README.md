@@ -9,7 +9,10 @@ THEY ARE:
   
  02.DW26 TASKS 02
  
-   NUMPY TASKS IN COLAB
- 
+  a. NUMPY TASKS IN COLAB
+  
+  b. Mongo db with i) Student dataset  as json
+                   ii) Telephone Directory CRUD Operation
+
     
    
